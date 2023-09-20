@@ -1,0 +1,8 @@
+<root>
+    <item
+        name='com.google.zxing.integration.android.IntentIntegrator com.google.zxing.integration.android.IntentIntegrator setPrompt(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val val="&quot;_-&gt;this&quot;" />
+        </annotation>
+    </item>
+</root>
